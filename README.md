@@ -7,5 +7,3 @@
 - semantic-release
 - npm
 - rimraf
-
-
