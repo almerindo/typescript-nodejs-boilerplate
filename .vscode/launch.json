@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "node",
+        "request": "launch",
+        "name": "Debug Internal",
+
+        "skipFiles": [
+          "<node_internals>/**"
+        ],
+        "preLaunchTask": "tsc: build - tsconfig.json",
+        "program": "${workspaceFolder}/src/index.ts",
+        "outFiles": ["${workspaceFolder}/dist/**/*.js"]
+      },
+    ]
+}

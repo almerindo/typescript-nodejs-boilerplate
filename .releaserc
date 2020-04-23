@@ -1,0 +1,12 @@
+{
+  "plugins": [
+   "@semantic-release/commit-analyzer",
+   "@semantic-release/release-notes-generator",
+   ["@semantic-release/npm",{"npmPublish":false}],
+   "@semantic-release/changelog",
+   "@semantic-release/git"
+   ],
+  "branches": ["master", "next"],
+  "type": "git",
+  "url": "git@github.com:almerindo/typescript-nodejs-boilerplate.git"
+}
