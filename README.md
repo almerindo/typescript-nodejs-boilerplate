@@ -6,3 +6,4 @@
 - jest
 - semantic-release
 - npm
+- rimraf
