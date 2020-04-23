@@ -1,12 +1,7 @@
-# 1.0.0 (2020-04-23)
+## [1.0.1](https://github.com/almerindo/typescript-nodejs-boilerplate/compare/v1.0.0...v1.0.1) (2020-04-23)
 
 
-### Bug Fixes
+### Reverts
 
-* Doc READM.md ([79250f8](https://github.com/almerindo/typescript-nodejs-boilerplate/commit/79250f8bd3a13143e7e4336ce727712e9df5490a))
-* Doc READM.md ([bc60527](https://github.com/almerindo/typescript-nodejs-boilerplate/commit/bc605277dfa0fb936fa82ba8b1e1d81d1c8de144))
-
-
-### Features
-
-* Add prettier, jest, semantic-release, eslint and debug ([bccf42d](https://github.com/almerindo/typescript-nodejs-boilerplate/commit/bccf42d90b1287656d872e59b92336039f2285a0))
+* Revert "fix: Doc READM.md" ([579e732](https://github.com/almerindo/typescript-nodejs-boilerplate/commit/579e73265b7abd0f51687d7b520c81aaf7484a65))
+* Revert "fix: Doc READM.md" ([ddd353c](https://github.com/almerindo/typescript-nodejs-boilerplate/commit/ddd353c1df63cae4c582119d0dc100c4d57947dc))
