@@ -23,7 +23,7 @@
   "scripts": {
     "clean": "rimraf coverage build tmp",
     "build": "tsc",
-    "dev": "ts-node-dev --transpileOnly --ignore-watch node_modules src/index.ts",
+    "dev": "ts-node-dev --ignore-watch node_modules src/index.ts",
     "test": "jest --no-cache"
   },
   "dependencies": {
